@@ -1,0 +1,58 @@
+<?php
+
+return [
+    [
+        'id' => 1,
+        'image' => asset('images/shop-tab-image-lg-1.jpg'),
+        'album' => [asset('images/shop-tab-image-lg-1.jpg'), asset('images/shop-tab-image-lg-2.jpg')],
+        'title' => 'Memento 2.0',
+        'price' => '134.99',
+        'overview' => 'The Ratio Pendant Lamp features a wide lampshade, referring to the bold and elegant shape of classic metal pendants. The lamp also features a spun steel shade with a seamlessly embedded LED module.',
+        'rating' => '2.5',
+    ],
+    [
+        'id' => 2,
+        'image' => asset('images/shop-image-2.jpg'),
+        'album' => [asset('images/shop-image-1.jpg'), asset('images/shop-image-2.jpg')],
+        'title' => 'SX Bathtubs',
+        'price' => '499.99',
+        'overview' => 'The Ratio Pendant Lamp features a wide lampshade, referring to the bold and elegant shape of classic metal pendants. The lamp also features a spun steel shade with a seamlessly embedded LED module.',
+        'rating' => '5',
+    ],
+    [
+        'id' => 3,
+        'image' => asset('images/shop-image-3.jpg'),
+        'album' => [asset('images/shop-image-1.jpg'), asset('images/shop-image-2.jpg')],
+        'title' => 'NOKEN - TONO',
+        'price' => '249.99',
+        'overview' => 'The Ratio Pendant Lamp features a wide lampshade, referring to the bold and elegant shape of classic metal pendants. The lamp also features a spun steel shade with a seamlessly embedded LED module.',
+        'rating' => '2.0',
+    ],
+    [
+        'id' => 4,
+        'image' => asset('images/shop-image-4.jpg'),
+        'album' => [asset('images/shop-image-1.jpg'), asset('images/shop-image-2.jpg')],
+        'title' => 'NOKEN - TONO',
+        'price' => '249.99',
+        'overview' => 'The Ratio Pendant Lamp features a wide lampshade, referring to the bold and elegant shape of classic metal pendants. The lamp also features a spun steel shade with a seamlessly embedded LED module.',
+        'rating' => '4.5',
+    ],
+    [
+        'id' => 5,
+        'image' => asset('images/shop-image-5.jpg'),
+        'album' => [asset('images/shop-image-1.jpg'), asset('images/shop-image-2.jpg')],
+        'title' => 'NOKEN - TONO',
+        'price' => '249.99',
+        'overview' => 'The Ratio Pendant Lamp features a wide lampshade, referring to the bold and elegant shape of classic metal pendants. The lamp also features a spun steel shade with a seamlessly embedded LED module.',
+        'rating' => '4.5',
+    ],
+    [
+        'id' => 6,
+        'image' => asset('images/shop-tab-image-lg-2.jpg'),
+        'album' => [asset('images/shop-image-1.jpg'), asset('images/shop-image-2.jpg')],
+        'title' => 'NOKEN - TONO',
+        'price' => '249.99',
+        'overview' => 'The Ratio Pendant Lamp features a wide lampshade, referring to the bold and elegant shape of classic metal pendants. The lamp also features a spun steel shade with a seamlessly embedded LED module.',
+        'rating' => '4.5',
+    ],
+];

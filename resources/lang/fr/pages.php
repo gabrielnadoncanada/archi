@@ -1,0 +1,66 @@
+<?php
+
+return [
+    'home' => [
+        'learn_more' => 'En savoir plus',
+        'see_all' => 'Voir tout les services',
+        'contact_us' => 'Contactez-nous',
+    ],
+    'about' => [
+        'title' => 'À propos de nous',
+        'subtitle' => '',
+        'description' => 'Vous avez une question ou vous souhaitez en savoir plus sur nos services? N\'hésitez pas à nous contacter. Nous vous répondrons dans les plus brefs délais.',
+        'location' => 'Emplacement',
+        'welcome_to_visit' => 'Bienvenue à la visite',
+        'contact' => 'Contact',
+        'shall_we_talk' => 'Pouvons-nous parler?',
+        'contact_form' => 'Formulaire de contact',
+        'write_us_a_message' => 'Écrivez-nous un message',
+        'map' => 'Carte',
+    ],
+    'contact' => [
+        'title' => 'Avez-vous des questions? Écrivez-nous un message.',
+        'subtitle' => 'Contact',
+        'description' => 'Vous avez une question ou vous souhaitez en savoir plus sur nos services? N\'hésitez pas à nous contacter. Nous vous répondrons dans les plus brefs délais.',
+        'location' => 'Emplacement',
+        'welcome_to_visit' => 'Bienvenue à la visite',
+        'contact' => 'Contact',
+        'shall_we_talk' => 'Pouvons-nous parler?',
+        'contact_form' => 'Formulaire de contact',
+        'write_us_a_message' => 'Écrivez-nous un message',
+        'map' => 'Carte',
+    ],
+    'post' => [
+        'title' => 'Découvrez nos',
+        'second_title' => 'articles exclusifs',
+        'subtitle' => 'Blogue',
+        'excerpt' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempor varius risus, eu hendrerit leo dignissim ut. Nunc lorem sapien, ornare sed convallis ac, placerat quis sapien.',
+        'location' => 'Emplacement',
+        'welcome_to_visit' => 'Bienvenue à la visite',
+        'contact' => 'Contact',
+        'shall_we_talk' => 'Pouvons-nous parler?',
+        'contact_form' => 'Formulaire de contact',
+        'write_us_a_message' => 'Écrivez-nous un message',
+        'map' => 'Carte',
+    ],
+    'posts' => [
+        'title' => 'Découvrez nos',
+        'second_title' => 'articles exclusifs',
+        'subtitle' => 'Blogue',
+        'excerpt' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tempor varius risus, eu hendrerit leo dignissim ut. Nunc lorem sapien, ornare sed convallis ac, placerat quis sapien.',
+        'location' => 'Emplacement',
+        'welcome_to_visit' => 'Bienvenue à la visite',
+        'contact' => 'Contact',
+        'shall_we_talk' => 'Pouvons-nous parler?',
+        'contact_form' => 'Formulaire de contact',
+        'write_us_a_message' => 'Écrivez-nous un message',
+        'map' => 'Carte',
+    ],
+    'service' => [
+        'subtitle' => 'Service',
+        'scroll_down' => 'Défiler vers le bas',
+    ],
+    'services' => [
+
+    ],
+];

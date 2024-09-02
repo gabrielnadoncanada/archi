@@ -1,0 +1,76 @@
+{
+    "51e52b3e-ef6c-4726-8155-653aacb8c011": {
+        "type": "App\\Models\\Page",
+        "data": {
+            "label": "Services",
+            "url": "2",
+            "target": null
+        },
+        "children": {
+            "6429c738-fdc0-46cb-9086-4a062bed6c14": {
+                "type": "App\\Models\\Service\\Post",
+                "data": {
+                    "label": "Gestion financi\u00e8re",
+                    "url": "1",
+                    "target": null
+                },
+                "children": []
+            },
+            "d55fd875-607d-4ec5-ba52-33b8e75e0397": {
+                "type": "App\\Models\\Service\\Post",
+                "data": {
+                    "label": "Gestion administrative",
+                    "url": "2",
+                    "target": null
+                },
+                "children": []
+            },
+            "2a95e542-8f25-4b75-b3ce-c2421a83dfdf": {
+                "type": "App\\Models\\Service\\Post",
+                "data": {
+                    "label": "Gestion op\u00e9rationnelle",
+                    "url": "3",
+                    "target": null
+                },
+                "children": []
+            }
+        }
+    },
+    "44635d74-3d82-4e61-9595-de08ee065a31": {
+        "type": "External",
+        "data": {
+            "label": "Ressources",
+            "url": "#",
+            "target": null
+        },
+        "children": {
+            "6435bbcf-0956-4299-b996-5669dc1d8eed": {
+                "type": "App\\Models\\Page",
+                "data": {
+                    "label": "\u00c0 propos",
+                    "url": "5",
+                    "target": null
+                },
+                "children": []
+            },
+            "c1b211cc-313b-49de-bce0-20d4c5710484": {
+                "type": "App\\Models\\Page",
+                "data": {
+                    "label": "Blogue",
+                    "url": "3",
+                    "target": null
+                },
+                "children": []
+            },
+            "22f665af-7138-4ff6-91f8-c13d9fa531b4": {
+                "type": "App\\Models\\Page",
+                "data": {
+                    "label": "Contact",
+                    "url": "4",
+                    "target": null
+                },
+                "children": []
+            }
+        }
+    }
+}
